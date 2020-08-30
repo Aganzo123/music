@@ -1,0 +1,604 @@
+{
+    "yinyue": [
+        {
+            "singName": "点歌的人",
+            "songs": "1",
+            "img": "../../src/assets/images/music/music1.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "兄弟想你了",
+            "songs": "2",
+            "img": "../../src/assets/images/music/music2.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "此情一直在心间",
+            "songs": "3",
+            "img": "../../src/assets/images/music/music3.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "周大侠",
+            "songs": "4",
+            "img": "../../src/assets/images/music/music4.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "余香",
+            "songs": "5",
+            "img": "../../src/assets/images/music/music5.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "稻香",
+            "songs": "6",
+            "img": "../../src/assets/images/music/music6.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "Ke Cap Gap Ba Gia",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        },
+        {
+            "singName": "你笑起来真好看",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "信仰",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "情难断",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "I Want You To Know",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "一路向北",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "колыбельная",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "美人鱼",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        }
+    ],
+    "yinyue1": [
+        {
+            "singName": "点歌的人",
+            "songs": "1",
+            "img": "../../src/assets/images/music/music1.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "兄弟想你了",
+            "songs": "2",
+            "img": "../../src/assets/images/music/music2.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "此情一直在心间",
+            "songs": "3",
+            "img": "../../src/assets/images/music/music3.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "周大侠",
+            "songs": "4",
+            "img": "../../src/assets/images/music/music4.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "余香",
+            "songs": "5",
+            "img": "../../src/assets/images/music/music5.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "稻香",
+            "songs": "6",
+            "img": "../../src/assets/images/music/music6.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "Ke Cap Gap Ba Gia",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        },
+        {
+            "singName": "你笑起来真好看",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "信仰",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "情难断",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "I Want You To Know",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "一路向北",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "колыбельная",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "美人鱼",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        }
+    ],
+    "yinyue2": [
+        {
+            "singName": "点歌的人",
+            "songs": "1",
+            "img": "../../src/assets/images/music/music1.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "兄弟想你了",
+            "songs": "2",
+            "img": "../../src/assets/images/music/music2.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "此情一直在心间",
+            "songs": "3",
+            "img": "../../src/assets/images/music/music3.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "周大侠",
+            "songs": "4",
+            "img": "../../src/assets/images/music/music4.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "余香",
+            "songs": "5",
+            "img": "../../src/assets/images/music/music5.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "稻香",
+            "songs": "6",
+            "img": "../../src/assets/images/music/music6.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "Ke Cap Gap Ba Gia",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        },
+        {
+            "singName": "你笑起来真好看",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "信仰",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "情难断",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "I Want You To Know",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "一路向北",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "колыбельная",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "美人鱼",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        }
+    ],
+    "yinyue3": [
+        {
+            "singName": "点歌的人",
+            "songs": "1",
+            "img": "../../src/assets/images/music/music1.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "兄弟想你了",
+            "songs": "2",
+            "img": "../../src/assets/images/music/music2.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "此情一直在心间",
+            "songs": "3",
+            "img": "../../src/assets/images/music/music3.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "周大侠",
+            "songs": "4",
+            "img": "../../src/assets/images/music/music4.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "余香",
+            "songs": "5",
+            "img": "../../src/assets/images/music/music5.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "稻香",
+            "songs": "6",
+            "img": "../../src/assets/images/music/music6.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "Ke Cap Gap Ba Gia",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        },
+        {
+            "singName": "你笑起来真好看",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "信仰",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "情难断",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "I Want You To Know",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "一路向北",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "колыбельная",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "美人鱼",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        }
+    ],
+    "yinyue4": [
+        {
+            "singName": "点歌的人",
+            "songs": "1",
+            "img": "../../src/assets/images/music/music1.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "兄弟想你了",
+            "songs": "2",
+            "img": "../../src/assets/images/music/music2.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "此情一直在心间",
+            "songs": "3",
+            "img": "../../src/assets/images/music/music3.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "周大侠",
+            "songs": "4",
+            "img": "../../src/assets/images/music/music4.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "余香",
+            "songs": "5",
+            "img": "../../src/assets/images/music/music5.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "稻香",
+            "songs": "6",
+            "img": "../../src/assets/images/music/music6.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "Ke Cap Gap Ba Gia",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        },
+        {
+            "singName": "你笑起来真好看",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "信仰",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "情难断",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "I Want You To Know",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "一路向北",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "колыбельная",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "美人鱼",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        }
+    ],
+    "yinyue5": [
+        {
+            "singName": "点歌的人",
+            "songs": "1",
+            "img": "../../src/assets/images/music/music1.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "兄弟想你了",
+            "songs": "2",
+            "img": "../../src/assets/images/music/music2.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "此情一直在心间",
+            "songs": "3",
+            "img": "../../src/assets/images/music/music3.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "周大侠",
+            "songs": "4",
+            "img": "../../src/assets/images/music/music4.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "余香",
+            "songs": "5",
+            "img": "../../src/assets/images/music/music5.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "稻香",
+            "songs": "6",
+            "img": "../../src/assets/images/music/music6.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "Ke Cap Gap Ba Gia",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        },
+        {
+            "singName": "你笑起来真好看",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "信仰",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "情难断",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "I Want You To Know",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "一路向北",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "колыбельная",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "美人鱼",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        }
+    ],
+    "yinyue6": [
+        {
+            "singName": "点歌的人",
+            "songs": "1",
+            "img": "../../src/assets/images/music/music1.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "兄弟想你了",
+            "songs": "2",
+            "img": "../../src/assets/images/music/music2.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "此情一直在心间",
+            "songs": "3",
+            "img": "../../src/assets/images/music/music3.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "周大侠",
+            "songs": "4",
+            "img": "../../src/assets/images/music/music4.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "余香",
+            "songs": "5",
+            "img": "../../src/assets/images/music/music5.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "稻香",
+            "songs": "6",
+            "img": "../../src/assets/images/music/music6.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "Ke Cap Gap Ba Gia",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        },
+        {
+            "singName": "你笑起来真好看",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin1.mp3"
+        },
+        {
+            "singName": "信仰",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin2.mp3"
+        },
+        {
+            "singName": "情难断",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin3.mp3"
+        },
+        {
+            "singName": "I Want You To Know",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin4.mp3"
+        },
+        {
+            "singName": "一路向北",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin5.mp3"
+        },
+        {
+            "singName": "колыбельная",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin6.mp3"
+        },
+        {
+            "singName": "美人鱼",
+            "songs": "7",
+            "img": "../../src/assets/images/music/music7.jpg",
+            "mp3": "../../src/assets/images/music/mp4/douyin7.mp3"
+        }
+    ]
+}
